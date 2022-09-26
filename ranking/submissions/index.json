@@ -1,0 +1,1437 @@
+[
+    {
+        "user": "u11020",
+        "task": "A",
+        "time": 331
+    },
+    {
+        "user": "u11002",
+        "task": "A",
+        "time": 374
+    },
+    {
+        "user": "u11020",
+        "task": "A",
+        "time": 526
+    },
+    {
+        "user": "u11031",
+        "task": "A",
+        "time": 623
+    },
+    {
+        "user": "u11016",
+        "task": "A",
+        "time": 733
+    },
+    {
+        "user": "u11020",
+        "task": "A",
+        "time": 756
+    },
+    {
+        "user": "u11032",
+        "task": "A",
+        "time": 791
+    },
+    {
+        "user": "u11029",
+        "task": "A",
+        "time": 885
+    },
+    {
+        "user": "u11031",
+        "task": "A",
+        "time": 911
+    },
+    {
+        "user": "u11016",
+        "task": "A",
+        "time": 987
+    },
+    {
+        "user": "u11032",
+        "task": "A",
+        "time": 1009
+    },
+    {
+        "user": "u11020",
+        "task": "A",
+        "time": 1130
+    },
+    {
+        "user": "u11003",
+        "task": "A",
+        "time": 1147
+    },
+    {
+        "user": "u11031",
+        "task": "A",
+        "time": 1150
+    },
+    {
+        "user": "u11025",
+        "task": "A",
+        "time": 1152
+    },
+    {
+        "user": "u11002",
+        "task": "A",
+        "time": 1218
+    },
+    {
+        "user": "u11027",
+        "task": "A",
+        "time": 1242
+    },
+    {
+        "user": "u11026",
+        "task": "A",
+        "time": 1266
+    },
+    {
+        "user": "u11014",
+        "task": "A",
+        "time": 1268
+    },
+    {
+        "user": "u11025",
+        "task": "A",
+        "time": 1335
+    },
+    {
+        "user": "u11020",
+        "task": "A",
+        "time": 1354
+    },
+    {
+        "user": "u11024",
+        "task": "A",
+        "time": 1366
+    },
+    {
+        "user": "u11029",
+        "task": "A",
+        "time": 1386
+    },
+    {
+        "user": "u11032",
+        "task": "A",
+        "time": 1411
+    },
+    {
+        "user": "u11003",
+        "task": "A",
+        "time": 1415
+    },
+    {
+        "user": "u11023",
+        "task": "A",
+        "time": 1421
+    },
+    {
+        "user": "u11021",
+        "task": "A",
+        "time": 1450
+    },
+    {
+        "user": "u11031",
+        "task": "A",
+        "time": 1456
+    },
+    {
+        "user": "u11026",
+        "task": "A",
+        "time": 1500
+    },
+    {
+        "user": "u11002",
+        "task": "A",
+        "time": 1517
+    },
+    {
+        "user": "u11025",
+        "task": "A",
+        "time": 1556
+    },
+    {
+        "user": "u11020",
+        "task": "A",
+        "time": 1584
+    },
+    {
+        "user": "u11016",
+        "task": "A",
+        "time": 1605
+    },
+    {
+        "user": "u11029",
+        "task": "A",
+        "time": 1665
+    },
+    {
+        "user": "u11023",
+        "task": "A",
+        "time": 1725
+    },
+    {
+        "user": "u11024",
+        "task": "A",
+        "time": 1750
+    },
+    {
+        "user": "u11027",
+        "task": "A",
+        "time": 1751
+    },
+    {
+        "user": "u11012",
+        "task": "A",
+        "time": 1753
+    },
+    {
+        "user": "u11020",
+        "task": "A",
+        "time": 1774
+    },
+    {
+        "user": "u11018",
+        "task": "A",
+        "time": 1794
+    },
+    {
+        "user": "u11011",
+        "task": "A",
+        "time": 1795
+    },
+    {
+        "user": "u11027",
+        "task": "A",
+        "time": 1957
+    },
+    {
+        "user": "u11023",
+        "task": "A",
+        "time": 1964
+    },
+    {
+        "user": "u11025",
+        "task": "A",
+        "time": 1990
+    },
+    {
+        "user": "u11024",
+        "task": "A",
+        "time": 2003
+    },
+    {
+        "user": "u11012",
+        "task": "A",
+        "time": 2004
+    },
+    {
+        "user": "u11029",
+        "task": "A",
+        "time": 2018
+    },
+    {
+        "user": "u11011",
+        "task": "A",
+        "time": 2067
+    },
+    {
+        "user": "u11003",
+        "task": "B",
+        "time": 2088
+    },
+    {
+        "user": "u11020",
+        "task": "A",
+        "time": 2098
+    },
+    {
+        "user": "u11021",
+        "task": "A",
+        "time": 2150
+    },
+    {
+        "user": "u11027",
+        "task": "A",
+        "time": 2163
+    },
+    {
+        "user": "u11023",
+        "task": "A",
+        "time": 2167
+    },
+    {
+        "user": "u11002",
+        "task": "A",
+        "time": 2200
+    },
+    {
+        "user": "u11029",
+        "task": "A",
+        "time": 2320
+    },
+    {
+        "user": "u11020",
+        "task": "A",
+        "time": 2326
+    },
+    {
+        "user": "u11012",
+        "task": "A",
+        "time": 2344
+    },
+    {
+        "user": "u11002",
+        "task": "A",
+        "time": 2506
+    },
+    {
+        "user": "u11012",
+        "task": "A",
+        "time": 2574
+    },
+    {
+        "user": "u11020",
+        "task": "B",
+        "time": 2658
+    },
+    {
+        "user": "u11003",
+        "task": "A",
+        "time": 2724
+    },
+    {
+        "user": "u11011",
+        "task": "A",
+        "time": 2781
+    },
+    {
+        "user": "u11020",
+        "task": "B",
+        "time": 2839
+    },
+    {
+        "user": "u11025",
+        "task": "B",
+        "time": 3017
+    },
+    {
+        "user": "u11003",
+        "task": "B",
+        "time": 3041
+    },
+    {
+        "user": "u11029",
+        "task": "A",
+        "time": 3142
+    },
+    {
+        "user": "u11018",
+        "task": "A",
+        "time": 3145
+    },
+    {
+        "user": "u11028",
+        "task": "A",
+        "time": 3183
+    },
+    {
+        "user": "u11032",
+        "task": "B",
+        "time": 3294
+    },
+    {
+        "user": "u11011",
+        "task": "A",
+        "time": 3297
+    },
+    {
+        "user": "u11028",
+        "task": "A",
+        "time": 3370
+    },
+    {
+        "user": "u11024",
+        "task": "A",
+        "time": 3388
+    },
+    {
+        "user": "u11002",
+        "task": "A",
+        "time": 3485
+    },
+    {
+        "user": "u11032",
+        "task": "B",
+        "time": 3492
+    },
+    {
+        "user": "u11025",
+        "task": "B",
+        "time": 3493
+    },
+    {
+        "user": "u11017",
+        "task": "A",
+        "time": 3524
+    },
+    {
+        "user": "u11020",
+        "task": "B",
+        "time": 3530
+    },
+    {
+        "user": "u11010",
+        "task": "F",
+        "time": 3551
+    },
+    {
+        "user": "u11029",
+        "task": "A",
+        "time": 3563
+    },
+    {
+        "user": "u11014",
+        "task": "A",
+        "time": 3621
+    },
+    {
+        "user": "u11014",
+        "task": "A",
+        "time": 3640
+    },
+    {
+        "user": "u11032",
+        "task": "B",
+        "time": 3746
+    },
+    {
+        "user": "u11017",
+        "task": "A",
+        "time": 3882
+    },
+    {
+        "user": "u11020",
+        "task": "B",
+        "time": 3914
+    },
+    {
+        "user": "u11032",
+        "task": "A",
+        "time": 3945
+    },
+    {
+        "user": "u11023",
+        "task": "A",
+        "time": 3946
+    },
+    {
+        "user": "u11025",
+        "task": "A",
+        "time": 3946
+    },
+    {
+        "user": "u11016",
+        "task": "A",
+        "time": 3947
+    },
+    {
+        "user": "u11029",
+        "task": "A",
+        "time": 3948
+    },
+    {
+        "user": "u11011",
+        "task": "A",
+        "time": 3948
+    },
+    {
+        "user": "u11031",
+        "task": "A",
+        "time": 3950
+    },
+    {
+        "user": "u11031",
+        "task": "A",
+        "time": 3952
+    },
+    {
+        "user": "u11027",
+        "task": "A",
+        "time": 3949
+    },
+    {
+        "user": "u11018",
+        "task": "A",
+        "time": 3952
+    },
+    {
+        "user": "u11027",
+        "task": "A",
+        "time": 3950
+    },
+    {
+        "user": "u11021",
+        "task": "A",
+        "time": 3953
+    },
+    {
+        "user": "u11024",
+        "task": "A",
+        "time": 3953
+    },
+    {
+        "user": "u11002",
+        "task": "A",
+        "time": 3954
+    },
+    {
+        "user": "u11028",
+        "task": "A",
+        "time": 3960
+    },
+    {
+        "user": "u11012",
+        "task": "A",
+        "time": 3995
+    },
+    {
+        "user": "u11021",
+        "task": "A",
+        "time": 4171
+    },
+    {
+        "user": "u11019",
+        "task": "A",
+        "time": 4210
+    },
+    {
+        "user": "u11020",
+        "task": "A",
+        "time": 4211
+    },
+    {
+        "user": "u11028",
+        "task": "A",
+        "time": 4272
+    },
+    {
+        "user": "u11011",
+        "task": "A",
+        "time": 4330
+    },
+    {
+        "user": "u11025",
+        "task": "C",
+        "time": 4383
+    },
+    {
+        "user": "u11032",
+        "task": "B",
+        "time": 4427
+    },
+    {
+        "user": "u11015",
+        "task": "B",
+        "time": 4429
+    },
+    {
+        "user": "u11020",
+        "task": "A",
+        "time": 4597
+    },
+    {
+        "user": "u11030",
+        "task": "F",
+        "time": 4705
+    },
+    {
+        "user": "u11017",
+        "task": "A",
+        "time": 4710
+    },
+    {
+        "user": "u11018",
+        "task": "B",
+        "time": 4718
+    },
+    {
+        "user": "u11026",
+        "task": "D",
+        "time": 4735
+    },
+    {
+        "user": "u11015",
+        "task": "B",
+        "time": 4847
+    },
+    {
+        "user": "u11020",
+        "task": "B",
+        "time": 4887
+    },
+    {
+        "user": "u11015",
+        "task": "B",
+        "time": 5048
+    },
+    {
+        "user": "u11026",
+        "task": "D",
+        "time": 5064
+    },
+    {
+        "user": "u11018",
+        "task": "A",
+        "time": 5118
+    },
+    {
+        "user": "u11032",
+        "task": "B",
+        "time": 5198
+    },
+    {
+        "user": "u11020",
+        "task": "B",
+        "time": 5349
+    },
+    {
+        "user": "u11029",
+        "task": "A",
+        "time": 5375
+    },
+    {
+        "user": "u11028",
+        "task": "A",
+        "time": 5380
+    },
+    {
+        "user": "u11026",
+        "task": "D",
+        "time": 5381
+    },
+    {
+        "user": "u11008",
+        "task": "A",
+        "time": 5392
+    },
+    {
+        "user": "u11002",
+        "task": "D",
+        "time": 5401
+    },
+    {
+        "user": "u11001",
+        "task": "A",
+        "time": 5493
+    },
+    {
+        "user": "u11017",
+        "task": "A",
+        "time": 5516
+    },
+    {
+        "user": "u11012",
+        "task": "A",
+        "time": 5528
+    },
+    {
+        "user": "u11024",
+        "task": "F",
+        "time": 5584
+    },
+    {
+        "user": "u11008",
+        "task": "D",
+        "time": 5588
+    },
+    {
+        "user": "u11032",
+        "task": "B",
+        "time": 5628
+    },
+    {
+        "user": "u11023",
+        "task": "D",
+        "time": 5637
+    },
+    {
+        "user": "u11027",
+        "task": "A",
+        "time": 5653
+    },
+    {
+        "user": "u11018",
+        "task": "A",
+        "time": 5655
+    },
+    {
+        "user": "u11024",
+        "task": "A",
+        "time": 5764
+    },
+    {
+        "user": "u11008",
+        "task": "A",
+        "time": 5782
+    },
+    {
+        "user": "u11032",
+        "task": "A",
+        "time": 5834
+    },
+    {
+        "user": "u11023",
+        "task": "D",
+        "time": 5908
+    },
+    {
+        "user": "u11001",
+        "task": "A",
+        "time": 5931
+    },
+    {
+        "user": "u11031",
+        "task": "F",
+        "time": 5974
+    },
+    {
+        "user": "u11024",
+        "task": "F",
+        "time": 5992
+    },
+    {
+        "user": "u11008",
+        "task": "C",
+        "time": 6063
+    },
+    {
+        "user": "u11016",
+        "task": "F",
+        "time": 6154
+    },
+    {
+        "user": "u11020",
+        "task": "A",
+        "time": 6196
+    },
+    {
+        "user": "u11001",
+        "task": "D",
+        "time": 6242
+    },
+    {
+        "user": "u11008",
+        "task": "G",
+        "time": 6277
+    },
+    {
+        "user": "u11024",
+        "task": "F",
+        "time": 6317
+    },
+    {
+        "user": "u11031",
+        "task": "F",
+        "time": 6364
+    },
+    {
+        "user": "u11027",
+        "task": "B",
+        "time": 6402
+    },
+    {
+        "user": "u11032",
+        "task": "F",
+        "time": 6590
+    },
+    {
+        "user": "u11016",
+        "task": "C",
+        "time": 6592
+    },
+    {
+        "user": "u11008",
+        "task": "C",
+        "time": 6592
+    },
+    {
+        "user": "u11031",
+        "task": "F",
+        "time": 6592
+    },
+    {
+        "user": "u11009",
+        "task": "A",
+        "time": 6621
+    },
+    {
+        "user": "u11001",
+        "task": "G",
+        "time": 6694
+    },
+    {
+        "user": "u11002",
+        "task": "F",
+        "time": 6705
+    },
+    {
+        "user": "u11015",
+        "task": "B",
+        "time": 6762
+    },
+    {
+        "user": "u11032",
+        "task": "F",
+        "time": 6782
+    },
+    {
+        "user": "u11008",
+        "task": "F",
+        "time": 6820
+    },
+    {
+        "user": "u11028",
+        "task": "B",
+        "time": 6873
+    },
+    {
+        "user": "u11025",
+        "task": "A",
+        "time": 6956
+    },
+    {
+        "user": "u11018",
+        "task": "F",
+        "time": 6996
+    },
+    {
+        "user": "u11020",
+        "task": "F",
+        "time": 7002
+    },
+    {
+        "user": "u11033",
+        "task": "D",
+        "time": 7006
+    },
+    {
+        "user": "u11034",
+        "task": "B",
+        "time": 7005
+    },
+    {
+        "user": "u11002",
+        "task": "D",
+        "time": 7107
+    },
+    {
+        "user": "u11020",
+        "task": "F",
+        "time": 7191
+    },
+    {
+        "user": "u11016",
+        "task": "F",
+        "time": 7197
+    },
+    {
+        "user": "u11029",
+        "task": "D",
+        "time": 7241
+    },
+    {
+        "user": "u11030",
+        "task": "A",
+        "time": 7266
+    },
+    {
+        "user": "u11011",
+        "task": "F",
+        "time": 7267
+    },
+    {
+        "user": "u11020",
+        "task": "F",
+        "time": 7375
+    },
+    {
+        "user": "u11008",
+        "task": "B",
+        "time": 7385
+    },
+    {
+        "user": "u11033",
+        "task": "D",
+        "time": 7386
+    },
+    {
+        "user": "u11032",
+        "task": "F",
+        "time": 7391
+    },
+    {
+        "user": "u11018",
+        "task": "F",
+        "time": 7394
+    },
+    {
+        "user": "u11018",
+        "task": "F",
+        "time": 7399
+    },
+    {
+        "user": "u11025",
+        "task": "B",
+        "time": 7450
+    },
+    {
+        "user": "u11026",
+        "task": "G",
+        "time": 7536
+    },
+    {
+        "user": "u11011",
+        "task": "F",
+        "time": 7584
+    },
+    {
+        "user": "u11029",
+        "task": "D",
+        "time": 7589
+    },
+    {
+        "user": "u11033",
+        "task": "D",
+        "time": 7605
+    },
+    {
+        "user": "u11019",
+        "task": "D",
+        "time": 7621
+    },
+    {
+        "user": "u11017",
+        "task": "A",
+        "time": 7656
+    },
+    {
+        "user": "u11016",
+        "task": "F",
+        "time": 7670
+    },
+    {
+        "user": "u11018",
+        "task": "A",
+        "time": 7701
+    },
+    {
+        "user": "u11012",
+        "task": "A",
+        "time": 7762
+    },
+    {
+        "user": "u11019",
+        "task": "D",
+        "time": 7821
+    },
+    {
+        "user": "u11034",
+        "task": "F",
+        "time": 7827
+    },
+    {
+        "user": "u11002",
+        "task": "F",
+        "time": 7865
+    },
+    {
+        "user": "u11023",
+        "task": "D",
+        "time": 7872
+    },
+    {
+        "user": "u11029",
+        "task": "B",
+        "time": 7921
+    },
+    {
+        "user": "u11008",
+        "task": "E",
+        "time": 7961
+    },
+    {
+        "user": "u11027",
+        "task": "F",
+        "time": 7966
+    },
+    {
+        "user": "u11009",
+        "task": "G",
+        "time": 8089
+    },
+    {
+        "user": "u11018",
+        "task": "A",
+        "time": 8109
+    },
+    {
+        "user": "u11031",
+        "task": "F",
+        "time": 8152
+    },
+    {
+        "user": "u11034",
+        "task": "F",
+        "time": 8165
+    },
+    {
+        "user": "u11019",
+        "task": "D",
+        "time": 8183
+    },
+    {
+        "user": "u11025",
+        "task": "F",
+        "time": 8189
+    },
+    {
+        "user": "u11027",
+        "task": "F",
+        "time": 8193
+    },
+    {
+        "user": "u11020",
+        "task": "F",
+        "time": 8224
+    },
+    {
+        "user": "u11016",
+        "task": "F",
+        "time": 8297
+    },
+    {
+        "user": "u11009",
+        "task": "G",
+        "time": 8351
+    },
+    {
+        "user": "u11027",
+        "task": "F",
+        "time": 8401
+    },
+    {
+        "user": "u11024",
+        "task": "B",
+        "time": 8518
+    },
+    {
+        "user": "u11033",
+        "task": "F",
+        "time": 8528
+    },
+    {
+        "user": "u11032",
+        "task": "D",
+        "time": 8529
+    },
+    {
+        "user": "u11009",
+        "task": "G",
+        "time": 8566
+    },
+    {
+        "user": "u11027",
+        "task": "F",
+        "time": 8626
+    },
+    {
+        "user": "u11001",
+        "task": "A",
+        "time": 8654
+    },
+    {
+        "user": "u11015",
+        "task": "F",
+        "time": 8696
+    },
+    {
+        "user": "u11021",
+        "task": "B",
+        "time": 8714
+    },
+    {
+        "user": "u11032",
+        "task": "D",
+        "time": 8760
+    },
+    {
+        "user": "u11033",
+        "task": "F",
+        "time": 8813
+    },
+    {
+        "user": "u11009",
+        "task": "G",
+        "time": 8823
+    },
+    {
+        "user": "u11024",
+        "task": "F",
+        "time": 8845
+    },
+    {
+        "user": "u11027",
+        "task": "F",
+        "time": 8914
+    },
+    {
+        "user": "u11018",
+        "task": "B",
+        "time": 9012
+    },
+    {
+        "user": "u11009",
+        "task": "G",
+        "time": 9024
+    },
+    {
+        "user": "u11033",
+        "task": "F",
+        "time": 9068
+    },
+    {
+        "user": "u11028",
+        "task": "B",
+        "time": 9126
+    },
+    {
+        "user": "u11009",
+        "task": "G",
+        "time": 9205
+    },
+    {
+        "user": "u11015",
+        "task": "F",
+        "time": 9256
+    },
+    {
+        "user": "u11031",
+        "task": "B",
+        "time": 9360
+    },
+    {
+        "user": "u11012",
+        "task": "B",
+        "time": 9366
+    },
+    {
+        "user": "u11032",
+        "task": "D",
+        "time": 9376
+    },
+    {
+        "user": "u11007",
+        "task": "B",
+        "time": 9386
+    },
+    {
+        "user": "u11029",
+        "task": "F",
+        "time": 9395
+    },
+    {
+        "user": "u11027",
+        "task": "F",
+        "time": 9429
+    },
+    {
+        "user": "u11026",
+        "task": "F",
+        "time": 9432
+    },
+    {
+        "user": "u11019",
+        "task": "F",
+        "time": 9468
+    },
+    {
+        "user": "u11033",
+        "task": "F",
+        "time": 9484
+    },
+    {
+        "user": "u11018",
+        "task": "A",
+        "time": 9493
+    },
+    {
+        "user": "u11018",
+        "task": "A",
+        "time": 9496
+    },
+    {
+        "user": "u11034",
+        "task": "F",
+        "time": 9502
+    },
+    {
+        "user": "u11020",
+        "task": "B",
+        "time": 9513
+    },
+    {
+        "user": "u11012",
+        "task": "B",
+        "time": 9546
+    },
+    {
+        "user": "u11031",
+        "task": "G",
+        "time": 9554
+    },
+    {
+        "user": "u11016",
+        "task": "F",
+        "time": 9580
+    },
+    {
+        "user": "u11026",
+        "task": "F",
+        "time": 9684
+    },
+    {
+        "user": "u11020",
+        "task": "F",
+        "time": 9729
+    },
+    {
+        "user": "u11021",
+        "task": "F",
+        "time": 9755
+    },
+    {
+        "user": "u11019",
+        "task": "F",
+        "time": 9780
+    },
+    {
+        "user": "u11029",
+        "task": "F",
+        "time": 9782
+    },
+    {
+        "user": "u11033",
+        "task": "D",
+        "time": 9877
+    },
+    {
+        "user": "u11032",
+        "task": "D",
+        "time": 9891
+    },
+    {
+        "user": "u11018",
+        "task": "B",
+        "time": 9911
+    },
+    {
+        "user": "u11019",
+        "task": "F",
+        "time": 9961
+    },
+    {
+        "user": "u11007",
+        "task": "B",
+        "time": 9972
+    },
+    {
+        "user": "u11029",
+        "task": "F",
+        "time": 10012
+    },
+    {
+        "user": "u11025",
+        "task": "B",
+        "time": 10033
+    },
+    {
+        "user": "u11026",
+        "task": "F",
+        "time": 10073
+    },
+    {
+        "user": "u11007",
+        "task": "B",
+        "time": 10198
+    },
+    {
+        "user": "u11029",
+        "task": "F",
+        "time": 10200
+    },
+    {
+        "user": "u11016",
+        "task": "B",
+        "time": 10244
+    },
+    {
+        "user": "u11021",
+        "task": "A",
+        "time": 10347
+    },
+    {
+        "user": "u11032",
+        "task": "B",
+        "time": 10348
+    },
+    {
+        "user": "u11031",
+        "task": "C",
+        "time": 10356
+    },
+    {
+        "user": "u11031",
+        "task": "C",
+        "time": 10356
+    },
+    {
+        "user": "u11020",
+        "task": "F",
+        "time": 10372
+    },
+    {
+        "user": "u11025",
+        "task": "D",
+        "time": 10381
+    },
+    {
+        "user": "u11029",
+        "task": "F",
+        "time": 10395
+    },
+    {
+        "user": "u11026",
+        "task": "F",
+        "time": 10398
+    },
+    {
+        "user": "u11024",
+        "task": "D",
+        "time": 10461
+    },
+    {
+        "user": "u11016",
+        "task": "B",
+        "time": 10462
+    },
+    {
+        "user": "u11016",
+        "task": "B",
+        "time": 10465
+    },
+    {
+        "user": "u11016",
+        "task": "B",
+        "time": 10465
+    },
+    {
+        "user": "u11016",
+        "task": "B",
+        "time": 10464
+    },
+    {
+        "user": "u11033",
+        "task": "D",
+        "time": 10467
+    },
+    {
+        "user": "u11034",
+        "task": "F",
+        "time": 10497
+    },
+    {
+        "user": "u11025",
+        "task": "D",
+        "time": 10597
+    },
+    {
+        "user": "u11026",
+        "task": "F",
+        "time": 10599
+    },
+    {
+        "user": "u11020",
+        "task": "A",
+        "time": 10613
+    },
+    {
+        "user": "u11025",
+        "task": "D",
+        "time": 10601
+    },
+    {
+        "user": "u11031",
+        "task": "B",
+        "time": 10626
+    },
+    {
+        "user": "u11031",
+        "task": "B",
+        "time": 10623
+    },
+    {
+        "user": "u11018",
+        "task": "F",
+        "time": 10666
+    },
+    {
+        "user": "u11018",
+        "task": "F",
+        "time": 10692
+    },
+    {
+        "user": "u11018",
+        "task": "F",
+        "time": 10692
+    },
+    {
+        "user": "u11018",
+        "task": "F",
+        "time": 10681
+    },
+    {
+        "user": "u11018",
+        "task": "F",
+        "time": 10692
+    },
+    {
+        "user": "u11027",
+        "task": "F",
+        "time": 10709
+    },
+    {
+        "user": "u11006",
+        "task": "A",
+        "time": 10741
+    },
+    {
+        "user": "u11024",
+        "task": "G",
+        "time": 10755
+    },
+    {
+        "user": "u11033",
+        "task": "B",
+        "time": 10782
+    },
+    {
+        "user": "u11026",
+        "task": "G",
+        "time": 10783
+    }
+]

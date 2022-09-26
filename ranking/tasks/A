@@ -1,0 +1,12 @@
+{
+    "name": "\u52a0\u5bc6 (encryption)",
+    "short_name": "A",
+    "contest": "hlhs21",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (100)"
+    ],
+    "order": 0,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

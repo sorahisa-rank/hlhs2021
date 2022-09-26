@@ -1,0 +1,14 @@
+{
+    "name": "\u9806\u6642\u91dd\u87ba\u65cb\u6578\u5b57\u586b\u8868 (spiral)",
+    "short_name": "E",
+    "contest": "hlhs21",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (15)",
+        "Subtask 2 (55)",
+        "Subtask 3 (30)"
+    ],
+    "order": 4,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

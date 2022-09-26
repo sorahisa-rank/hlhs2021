@@ -1,0 +1,96 @@
+{
+    "A": {
+        "name": "\u52a0\u5bc6 (encryption)",
+        "short_name": "A",
+        "contest": "hlhs21",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (100)"
+        ],
+        "order": 0,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "B": {
+        "name": "\u822a\u6d77\u904a\u6232 (game)",
+        "short_name": "B",
+        "contest": "hlhs21",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (50)",
+            "Subtask 2 (50)"
+        ],
+        "order": 1,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "C": {
+        "name": "\u8ff4\u6587 (palindrome)",
+        "short_name": "C",
+        "contest": "hlhs21",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (10)",
+            "Subtask 2 (10)",
+            "Subtask 3 (80)"
+        ],
+        "order": 2,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "D": {
+        "name": "\u96a8\u6a5f\u63d2\u5165\u6392\u5217 (random)",
+        "short_name": "D",
+        "contest": "hlhs21",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (15)",
+            "Subtask 2 (25)",
+            "Subtask 3 (60)"
+        ],
+        "order": 3,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "E": {
+        "name": "\u9806\u6642\u91dd\u87ba\u65cb\u6578\u5b57\u586b\u8868 (spiral)",
+        "short_name": "E",
+        "contest": "hlhs21",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (15)",
+            "Subtask 2 (55)",
+            "Subtask 3 (30)"
+        ],
+        "order": 4,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "F": {
+        "name": "\u6372\u6372\u4eba\u751f\u5927\u512a\u60e0 (rolling)",
+        "short_name": "F",
+        "contest": "hlhs21",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (15)",
+            "Subtask 2 (25)",
+            "Subtask 3 (60)"
+        ],
+        "order": 5,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "G": {
+        "name": "\u5b8c\u5168\u8a2a\u554f\u65b9\u683c\u8def\u5f91 (tours)",
+        "short_name": "G",
+        "contest": "hlhs21",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (30)",
+            "Subtask 2 (70)"
+        ],
+        "order": 6,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "\u96a8\u6a5f\u63d2\u5165\u6392\u5217 (random)",
+    "short_name": "D",
+    "contest": "hlhs21",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (15)",
+        "Subtask 2 (25)",
+        "Subtask 3 (60)"
+    ],
+    "order": 3,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

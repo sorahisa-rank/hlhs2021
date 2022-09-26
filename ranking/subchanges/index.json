@@ -1,0 +1,2567 @@
+{
+    "33112s": {
+        "submission": "12",
+        "time": 331,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "37413s": {
+        "submission": "13",
+        "time": 374,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "52614s": {
+        "submission": "14",
+        "time": 526,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "62315s": {
+        "submission": "15",
+        "time": 623,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "73316s": {
+        "submission": "16",
+        "time": 733,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "75617s": {
+        "submission": "17",
+        "time": 756,
+        "score": 100,
+        "extra": [
+            "100"
+        ]
+    },
+    "79118s": {
+        "submission": "18",
+        "time": 791,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "88519s": {
+        "submission": "19",
+        "time": 885,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "91120s": {
+        "submission": "20",
+        "time": 911,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "98721s": {
+        "submission": "21",
+        "time": 987,
+        "score": 100,
+        "extra": [
+            "100"
+        ]
+    },
+    "100922s": {
+        "submission": "22",
+        "time": 1009,
+        "score": 80,
+        "extra": [
+            "80"
+        ]
+    },
+    "113023s": {
+        "submission": "23",
+        "time": 1130,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "114724s": {
+        "submission": "24",
+        "time": 1147,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "115025s": {
+        "submission": "25",
+        "time": 1150,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "115226s": {
+        "submission": "26",
+        "time": 1152,
+        "score": 100,
+        "extra": [
+            "100"
+        ]
+    },
+    "121827s": {
+        "submission": "27",
+        "time": 1218,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "124228s": {
+        "submission": "28",
+        "time": 1242,
+        "score": 80,
+        "extra": [
+            "80"
+        ]
+    },
+    "126629s": {
+        "submission": "29",
+        "time": 1266,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "126830s": {
+        "submission": "30",
+        "time": 1268,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "133531s": {
+        "submission": "31",
+        "time": 1335,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "135432s": {
+        "submission": "32",
+        "time": 1354,
+        "score": 100,
+        "extra": [
+            "100"
+        ]
+    },
+    "136633s": {
+        "submission": "33",
+        "time": 1366,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "138634s": {
+        "submission": "34",
+        "time": 1386,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "141135s": {
+        "submission": "35",
+        "time": 1411,
+        "score": 80,
+        "extra": [
+            "80"
+        ]
+    },
+    "141536s": {
+        "submission": "36",
+        "time": 1415,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "142137s": {
+        "submission": "37",
+        "time": 1421,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "145038s": {
+        "submission": "38",
+        "time": 1450,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "145639s": {
+        "submission": "39",
+        "time": 1456,
+        "score": 100,
+        "extra": [
+            "100"
+        ]
+    },
+    "150040s": {
+        "submission": "40",
+        "time": 1500,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "151741s": {
+        "submission": "41",
+        "time": 1517,
+        "score": 80,
+        "extra": [
+            "80"
+        ]
+    },
+    "155642s": {
+        "submission": "42",
+        "time": 1556,
+        "score": 100,
+        "extra": [
+            "100"
+        ]
+    },
+    "158443s": {
+        "submission": "43",
+        "time": 1584,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "160544s": {
+        "submission": "44",
+        "time": 1605,
+        "score": 100,
+        "extra": [
+            "100"
+        ]
+    },
+    "166545s": {
+        "submission": "45",
+        "time": 1665,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "172546s": {
+        "submission": "46",
+        "time": 1725,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "175047s": {
+        "submission": "47",
+        "time": 1750,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "175148s": {
+        "submission": "48",
+        "time": 1751,
+        "score": 80,
+        "extra": [
+            "80"
+        ]
+    },
+    "175349s": {
+        "submission": "49",
+        "time": 1753,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "177450s": {
+        "submission": "50",
+        "time": 1774,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "179451s": {
+        "submission": "51",
+        "time": 1794,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "179552s": {
+        "submission": "52",
+        "time": 1795,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "195753s": {
+        "submission": "53",
+        "time": 1957,
+        "score": 80,
+        "extra": [
+            "80"
+        ]
+    },
+    "196454s": {
+        "submission": "54",
+        "time": 1964,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "199055s": {
+        "submission": "55",
+        "time": 1990,
+        "score": 100,
+        "extra": [
+            "100"
+        ]
+    },
+    "200356s": {
+        "submission": "56",
+        "time": 2003,
+        "score": 80,
+        "extra": [
+            "80"
+        ]
+    },
+    "200457s": {
+        "submission": "57",
+        "time": 2004,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "201858s": {
+        "submission": "58",
+        "time": 2018,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "206759s": {
+        "submission": "59",
+        "time": 2067,
+        "score": 80,
+        "extra": [
+            "80"
+        ]
+    },
+    "208860s": {
+        "submission": "60",
+        "time": 2088,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    "209861s": {
+        "submission": "61",
+        "time": 2098,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "215062s": {
+        "submission": "62",
+        "time": 2150,
+        "score": 80,
+        "extra": [
+            "80"
+        ]
+    },
+    "216363s": {
+        "submission": "63",
+        "time": 2163,
+        "score": 80,
+        "extra": [
+            "80"
+        ]
+    },
+    "216764s": {
+        "submission": "64",
+        "time": 2167,
+        "score": 100,
+        "extra": [
+            "100"
+        ]
+    },
+    "220065s": {
+        "submission": "65",
+        "time": 2200,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "232066s": {
+        "submission": "66",
+        "time": 2320,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "232667s": {
+        "submission": "67",
+        "time": 2326,
+        "score": 100,
+        "extra": [
+            "100"
+        ]
+    },
+    "234468s": {
+        "submission": "68",
+        "time": 2344,
+        "score": 100,
+        "extra": [
+            "100"
+        ]
+    },
+    "250669s": {
+        "submission": "69",
+        "time": 2506,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "257470s": {
+        "submission": "70",
+        "time": 2574,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "265871s": {
+        "submission": "71",
+        "time": 2658,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    "272472s": {
+        "submission": "72",
+        "time": 2724,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "278173s": {
+        "submission": "73",
+        "time": 2781,
+        "score": 80,
+        "extra": [
+            "80"
+        ]
+    },
+    "283974s": {
+        "submission": "74",
+        "time": 2839,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    "301775s": {
+        "submission": "75",
+        "time": 3017,
+        "score": 100,
+        "extra": [
+            "50",
+            "50"
+        ]
+    },
+    "304176s": {
+        "submission": "76",
+        "time": 3041,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    "314277s": {
+        "submission": "77",
+        "time": 3142,
+        "score": 80,
+        "extra": [
+            "80"
+        ]
+    },
+    "314578s": {
+        "submission": "78",
+        "time": 3145,
+        "score": 60,
+        "extra": [
+            "60"
+        ]
+    },
+    "318379s": {
+        "submission": "79",
+        "time": 3183,
+        "score": 80,
+        "extra": [
+            "80"
+        ]
+    },
+    "329480s": {
+        "submission": "80",
+        "time": 3294,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    "329781s": {
+        "submission": "81",
+        "time": 3297,
+        "score": 80,
+        "extra": [
+            "80"
+        ]
+    },
+    "337082s": {
+        "submission": "82",
+        "time": 3370,
+        "score": 80,
+        "extra": [
+            "80"
+        ]
+    },
+    "338883s": {
+        "submission": "83",
+        "time": 3388,
+        "score": 80,
+        "extra": [
+            "80"
+        ]
+    },
+    "348584s": {
+        "submission": "84",
+        "time": 3485,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "349285s": {
+        "submission": "85",
+        "time": 3492,
+        "score": 100,
+        "extra": [
+            "50",
+            "50"
+        ]
+    },
+    "349386s": {
+        "submission": "86",
+        "time": 3493,
+        "score": 100,
+        "extra": [
+            "50",
+            "50"
+        ]
+    },
+    "352487s": {
+        "submission": "87",
+        "time": 3524,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "353088s": {
+        "submission": "88",
+        "time": 3530,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    "355189s": {
+        "submission": "89",
+        "time": 3551,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "356390s": {
+        "submission": "90",
+        "time": 3563,
+        "score": 80,
+        "extra": [
+            "80"
+        ]
+    },
+    "362191s": {
+        "submission": "91",
+        "time": 3621,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "364092s": {
+        "submission": "92",
+        "time": 3640,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "374693s": {
+        "submission": "93",
+        "time": 3746,
+        "score": 50,
+        "extra": [
+            "50",
+            "0"
+        ]
+    },
+    "388294s": {
+        "submission": "94",
+        "time": 3882,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "391495s": {
+        "submission": "95",
+        "time": 3914,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    "394596s": {
+        "submission": "96",
+        "time": 3945,
+        "score": 80,
+        "extra": [
+            "80"
+        ]
+    },
+    "394697s": {
+        "submission": "97",
+        "time": 3946,
+        "score": 100,
+        "extra": [
+            "100"
+        ]
+    },
+    "394698s": {
+        "submission": "98",
+        "time": 3946,
+        "score": 100,
+        "extra": [
+            "100"
+        ]
+    },
+    "394799s": {
+        "submission": "99",
+        "time": 3947,
+        "score": 100,
+        "extra": [
+            "100"
+        ]
+    },
+    "3948100s": {
+        "submission": "100",
+        "time": 3948,
+        "score": 80,
+        "extra": [
+            "80"
+        ]
+    },
+    "3948101s": {
+        "submission": "101",
+        "time": 3948,
+        "score": 80,
+        "extra": [
+            "80"
+        ]
+    },
+    "3950102s": {
+        "submission": "102",
+        "time": 3950,
+        "score": 100,
+        "extra": [
+            "100"
+        ]
+    },
+    "3952103s": {
+        "submission": "103",
+        "time": 3952,
+        "score": 100,
+        "extra": [
+            "100"
+        ]
+    },
+    "3949104s": {
+        "submission": "104",
+        "time": 3949,
+        "score": 80,
+        "extra": [
+            "80"
+        ]
+    },
+    "3952105s": {
+        "submission": "105",
+        "time": 3952,
+        "score": 60,
+        "extra": [
+            "60"
+        ]
+    },
+    "3950106s": {
+        "submission": "106",
+        "time": 3950,
+        "score": 80,
+        "extra": [
+            "80"
+        ]
+    },
+    "3953107s": {
+        "submission": "107",
+        "time": 3953,
+        "score": 80,
+        "extra": [
+            "80"
+        ]
+    },
+    "3953108s": {
+        "submission": "108",
+        "time": 3953,
+        "score": 80,
+        "extra": [
+            "80"
+        ]
+    },
+    "3954109s": {
+        "submission": "109",
+        "time": 3954,
+        "score": 80,
+        "extra": [
+            "80"
+        ]
+    },
+    "3960110s": {
+        "submission": "110",
+        "time": 3960,
+        "score": 80,
+        "extra": [
+            "80"
+        ]
+    },
+    "3995111s": {
+        "submission": "111",
+        "time": 3995,
+        "score": 100,
+        "extra": [
+            "100"
+        ]
+    },
+    "4171112s": {
+        "submission": "112",
+        "time": 4171,
+        "score": 80,
+        "extra": [
+            "80"
+        ]
+    },
+    "4210113s": {
+        "submission": "113",
+        "time": 4210,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "4211114s": {
+        "submission": "114",
+        "time": 4211,
+        "score": 100,
+        "extra": [
+            "100"
+        ]
+    },
+    "4272115s": {
+        "submission": "115",
+        "time": 4272,
+        "score": 80,
+        "extra": [
+            "80"
+        ]
+    },
+    "4330116s": {
+        "submission": "116",
+        "time": 4330,
+        "score": 80,
+        "extra": [
+            "80"
+        ]
+    },
+    "4383117s": {
+        "submission": "117",
+        "time": 4383,
+        "score": 100,
+        "extra": [
+            "10",
+            "10",
+            "80"
+        ]
+    },
+    "4427118s": {
+        "submission": "118",
+        "time": 4427,
+        "score": 50,
+        "extra": [
+            "50",
+            "0"
+        ]
+    },
+    "4429119s": {
+        "submission": "119",
+        "time": 4429,
+        "score": 50,
+        "extra": [
+            "50",
+            "0"
+        ]
+    },
+    "4597120s": {
+        "submission": "120",
+        "time": 4597,
+        "score": 100,
+        "extra": [
+            "100"
+        ]
+    },
+    "4705121s": {
+        "submission": "121",
+        "time": 4705,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "4710122s": {
+        "submission": "122",
+        "time": 4710,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "4718123s": {
+        "submission": "123",
+        "time": 4718,
+        "score": 100,
+        "extra": [
+            "50",
+            "50"
+        ]
+    },
+    "4735124s": {
+        "submission": "124",
+        "time": 4735,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "4847125s": {
+        "submission": "125",
+        "time": 4847,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    "4887126s": {
+        "submission": "126",
+        "time": 4887,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    "5048127s": {
+        "submission": "127",
+        "time": 5048,
+        "score": 50,
+        "extra": [
+            "50",
+            "0"
+        ]
+    },
+    "5064128s": {
+        "submission": "128",
+        "time": 5064,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "5118129s": {
+        "submission": "129",
+        "time": 5118,
+        "score": 60,
+        "extra": [
+            "60"
+        ]
+    },
+    "5198130s": {
+        "submission": "130",
+        "time": 5198,
+        "score": 50,
+        "extra": [
+            "50",
+            "0"
+        ]
+    },
+    "5349131s": {
+        "submission": "131",
+        "time": 5349,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    "5375132s": {
+        "submission": "132",
+        "time": 5375,
+        "score": 80,
+        "extra": [
+            "80"
+        ]
+    },
+    "5380133s": {
+        "submission": "133",
+        "time": 5380,
+        "score": 80,
+        "extra": [
+            "80"
+        ]
+    },
+    "5381134s": {
+        "submission": "134",
+        "time": 5381,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "5392135s": {
+        "submission": "135",
+        "time": 5392,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "5401136s": {
+        "submission": "136",
+        "time": 5401,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "5493137s": {
+        "submission": "137",
+        "time": 5493,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "5516138s": {
+        "submission": "138",
+        "time": 5516,
+        "score": 100,
+        "extra": [
+            "100"
+        ]
+    },
+    "5528139s": {
+        "submission": "139",
+        "time": 5528,
+        "score": 100,
+        "extra": [
+            "100"
+        ]
+    },
+    "5584140s": {
+        "submission": "140",
+        "time": 5584,
+        "score": 15,
+        "extra": [
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    "5588141s": {
+        "submission": "141",
+        "time": 5588,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "5628142s": {
+        "submission": "142",
+        "time": 5628,
+        "score": 50,
+        "extra": [
+            "50",
+            "0"
+        ]
+    },
+    "5637143s": {
+        "submission": "143",
+        "time": 5637,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "5653144s": {
+        "submission": "144",
+        "time": 5653,
+        "score": 80,
+        "extra": [
+            "80"
+        ]
+    },
+    "5655145s": {
+        "submission": "145",
+        "time": 5655,
+        "score": 80,
+        "extra": [
+            "80"
+        ]
+    },
+    "5764146s": {
+        "submission": "146",
+        "time": 5764,
+        "score": 80,
+        "extra": [
+            "80"
+        ]
+    },
+    "5782147s": {
+        "submission": "147",
+        "time": 5782,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "5834148s": {
+        "submission": "148",
+        "time": 5834,
+        "score": 80,
+        "extra": [
+            "80"
+        ]
+    },
+    "5908149s": {
+        "submission": "149",
+        "time": 5908,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "5931150s": {
+        "submission": "150",
+        "time": 5931,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "5974151s": {
+        "submission": "151",
+        "time": 5974,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "5992152s": {
+        "submission": "152",
+        "time": 5992,
+        "score": 15,
+        "extra": [
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    "6063153s": {
+        "submission": "153",
+        "time": 6063,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "6154154s": {
+        "submission": "154",
+        "time": 6154,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "6196155s": {
+        "submission": "155",
+        "time": 6196,
+        "score": 100,
+        "extra": [
+            "100"
+        ]
+    },
+    "6242156s": {
+        "submission": "156",
+        "time": 6242,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "6277157s": {
+        "submission": "157",
+        "time": 6277,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    "6317158s": {
+        "submission": "158",
+        "time": 6317,
+        "score": 15,
+        "extra": [
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    "6364159s": {
+        "submission": "159",
+        "time": 6364,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "6402160s": {
+        "submission": "160",
+        "time": 6402,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    "6590161s": {
+        "submission": "161",
+        "time": 6590,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "6592162s": {
+        "submission": "162",
+        "time": 6592,
+        "score": 20,
+        "extra": [
+            "10",
+            "10",
+            "0"
+        ]
+    },
+    "6592163s": {
+        "submission": "163",
+        "time": 6592,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "6592164s": {
+        "submission": "164",
+        "time": 6592,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "6621165s": {
+        "submission": "165",
+        "time": 6621,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "6694166s": {
+        "submission": "166",
+        "time": 6694,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    "6705167s": {
+        "submission": "167",
+        "time": 6705,
+        "score": 15,
+        "extra": [
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    "6762168s": {
+        "submission": "168",
+        "time": 6762,
+        "score": 50,
+        "extra": [
+            "50",
+            "0"
+        ]
+    },
+    "6782169s": {
+        "submission": "169",
+        "time": 6782,
+        "score": 100,
+        "extra": [
+            "15",
+            "25",
+            "60"
+        ]
+    },
+    "6820170s": {
+        "submission": "170",
+        "time": 6820,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "6873171s": {
+        "submission": "171",
+        "time": 6873,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    "6956172s": {
+        "submission": "172",
+        "time": 6956,
+        "score": 100,
+        "extra": [
+            "100"
+        ]
+    },
+    "6996173s": {
+        "submission": "173",
+        "time": 6996,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "7002174s": {
+        "submission": "174",
+        "time": 7002,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "7006175s": {
+        "submission": "175",
+        "time": 7006,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "7005176s": {
+        "submission": "176",
+        "time": 7005,
+        "score": 100,
+        "extra": [
+            "50",
+            "50"
+        ]
+    },
+    "7107177s": {
+        "submission": "177",
+        "time": 7107,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "7191178s": {
+        "submission": "178",
+        "time": 7191,
+        "score": 15,
+        "extra": [
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    "7197179s": {
+        "submission": "179",
+        "time": 7197,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "7241180s": {
+        "submission": "180",
+        "time": 7241,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "7266181s": {
+        "submission": "181",
+        "time": 7266,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "7267182s": {
+        "submission": "182",
+        "time": 7267,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "7375183s": {
+        "submission": "183",
+        "time": 7375,
+        "score": 15,
+        "extra": [
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    "7385184s": {
+        "submission": "184",
+        "time": 7385,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    "7386185s": {
+        "submission": "185",
+        "time": 7386,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "7391186s": {
+        "submission": "186",
+        "time": 7391,
+        "score": 40,
+        "extra": [
+            "15",
+            "25",
+            "0"
+        ]
+    },
+    "7394187s": {
+        "submission": "187",
+        "time": 7394,
+        "score": 15,
+        "extra": [
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    "7399188s": {
+        "submission": "188",
+        "time": 7399,
+        "score": 15,
+        "extra": [
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    "7450189s": {
+        "submission": "189",
+        "time": 7450,
+        "score": 100,
+        "extra": [
+            "50",
+            "50"
+        ]
+    },
+    "7536190s": {
+        "submission": "190",
+        "time": 7536,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    "7584191s": {
+        "submission": "191",
+        "time": 7584,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "7589192s": {
+        "submission": "192",
+        "time": 7589,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "7605193s": {
+        "submission": "193",
+        "time": 7605,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "7621194s": {
+        "submission": "194",
+        "time": 7621,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "7656195s": {
+        "submission": "195",
+        "time": 7656,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "7670196s": {
+        "submission": "196",
+        "time": 7670,
+        "score": 15,
+        "extra": [
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    "7701197s": {
+        "submission": "197",
+        "time": 7701,
+        "score": 60,
+        "extra": [
+            "60"
+        ]
+    },
+    "7762198s": {
+        "submission": "198",
+        "time": 7762,
+        "score": 100,
+        "extra": [
+            "100"
+        ]
+    },
+    "7821199s": {
+        "submission": "199",
+        "time": 7821,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "7827200s": {
+        "submission": "200",
+        "time": 7827,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "7865201s": {
+        "submission": "201",
+        "time": 7865,
+        "score": 15,
+        "extra": [
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    "7872202s": {
+        "submission": "202",
+        "time": 7872,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "7921203s": {
+        "submission": "203",
+        "time": 7921,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    "7961204s": {
+        "submission": "204",
+        "time": 7961,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "7966205s": {
+        "submission": "205",
+        "time": 7966,
+        "score": 15,
+        "extra": [
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    "8089206s": {
+        "submission": "206",
+        "time": 8089,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    "8109207s": {
+        "submission": "207",
+        "time": 8109,
+        "score": 60,
+        "extra": [
+            "60"
+        ]
+    },
+    "8152208s": {
+        "submission": "208",
+        "time": 8152,
+        "score": 15,
+        "extra": [
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    "8165209s": {
+        "submission": "209",
+        "time": 8165,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "8183210s": {
+        "submission": "210",
+        "time": 8183,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "8189211s": {
+        "submission": "211",
+        "time": 8189,
+        "score": 15,
+        "extra": [
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    "8193212s": {
+        "submission": "212",
+        "time": 8193,
+        "score": 15,
+        "extra": [
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    "8224213s": {
+        "submission": "213",
+        "time": 8224,
+        "score": 15,
+        "extra": [
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    "8297214s": {
+        "submission": "214",
+        "time": 8297,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "8351215s": {
+        "submission": "215",
+        "time": 8351,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    "8401216s": {
+        "submission": "216",
+        "time": 8401,
+        "score": 15,
+        "extra": [
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    "8518217s": {
+        "submission": "217",
+        "time": 8518,
+        "score": 100,
+        "extra": [
+            "50",
+            "50"
+        ]
+    },
+    "8528218s": {
+        "submission": "218",
+        "time": 8528,
+        "score": 15,
+        "extra": [
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    "8529219s": {
+        "submission": "219",
+        "time": 8529,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "8566220s": {
+        "submission": "220",
+        "time": 8566,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    "8626221s": {
+        "submission": "221",
+        "time": 8626,
+        "score": 15,
+        "extra": [
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    "8654222s": {
+        "submission": "222",
+        "time": 8654,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "8696223s": {
+        "submission": "223",
+        "time": 8696,
+        "score": 15,
+        "extra": [
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    "8714224s": {
+        "submission": "224",
+        "time": 8714,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    "8760225s": {
+        "submission": "225",
+        "time": 8760,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "8813226s": {
+        "submission": "226",
+        "time": 8813,
+        "score": 15,
+        "extra": [
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    "8823227s": {
+        "submission": "227",
+        "time": 8823,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    "8845228s": {
+        "submission": "228",
+        "time": 8845,
+        "score": 15,
+        "extra": [
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    "8914229s": {
+        "submission": "229",
+        "time": 8914,
+        "score": 15,
+        "extra": [
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    "9012230s": {
+        "submission": "230",
+        "time": 9012,
+        "score": 100,
+        "extra": [
+            "50",
+            "50"
+        ]
+    },
+    "9024231s": {
+        "submission": "231",
+        "time": 9024,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    "9068232s": {
+        "submission": "232",
+        "time": 9068,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "9126233s": {
+        "submission": "233",
+        "time": 9126,
+        "score": 100,
+        "extra": [
+            "50",
+            "50"
+        ]
+    },
+    "9205234s": {
+        "submission": "234",
+        "time": 9205,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    "9256235s": {
+        "submission": "235",
+        "time": 9256,
+        "score": 15,
+        "extra": [
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    "9360236s": {
+        "submission": "236",
+        "time": 9360,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    "9366237s": {
+        "submission": "237",
+        "time": 9366,
+        "score": 50,
+        "extra": [
+            "50",
+            "0"
+        ]
+    },
+    "9376238s": {
+        "submission": "238",
+        "time": 9376,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "9386239s": {
+        "submission": "239",
+        "time": 9386,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    "9395240s": {
+        "submission": "240",
+        "time": 9395,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "9429241s": {
+        "submission": "241",
+        "time": 9429,
+        "score": 15,
+        "extra": [
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    "9432242s": {
+        "submission": "242",
+        "time": 9432,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "9468243s": {
+        "submission": "243",
+        "time": 9468,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "9484244s": {
+        "submission": "244",
+        "time": 9484,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "9493245s": {
+        "submission": "245",
+        "time": 9493,
+        "score": 80,
+        "extra": [
+            "80"
+        ]
+    },
+    "9496246s": {
+        "submission": "246",
+        "time": 9496,
+        "score": 80,
+        "extra": [
+            "80"
+        ]
+    },
+    "9502247s": {
+        "submission": "247",
+        "time": 9502,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "9513248s": {
+        "submission": "248",
+        "time": 9513,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    "9546249s": {
+        "submission": "249",
+        "time": 9546,
+        "score": 100,
+        "extra": [
+            "50",
+            "50"
+        ]
+    },
+    "9554250s": {
+        "submission": "250",
+        "time": 9554,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    "9580251s": {
+        "submission": "251",
+        "time": 9580,
+        "score": 15,
+        "extra": [
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    "9684252s": {
+        "submission": "252",
+        "time": 9684,
+        "score": 15,
+        "extra": [
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    "9729253s": {
+        "submission": "253",
+        "time": 9729,
+        "score": 15,
+        "extra": [
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    "9755254s": {
+        "submission": "254",
+        "time": 9755,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "9780255s": {
+        "submission": "255",
+        "time": 9780,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "9782256s": {
+        "submission": "256",
+        "time": 9782,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "9877257s": {
+        "submission": "257",
+        "time": 9877,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "9891258s": {
+        "submission": "258",
+        "time": 9891,
+        "score": 100,
+        "extra": [
+            "15",
+            "25",
+            "60"
+        ]
+    },
+    "9911259s": {
+        "submission": "259",
+        "time": 9911,
+        "score": 100,
+        "extra": [
+            "50",
+            "50"
+        ]
+    },
+    "9961260s": {
+        "submission": "260",
+        "time": 9961,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "9972261s": {
+        "submission": "261",
+        "time": 9972,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    "10012262s": {
+        "submission": "262",
+        "time": 10012,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "10033263s": {
+        "submission": "263",
+        "time": 10033,
+        "score": 100,
+        "extra": [
+            "50",
+            "50"
+        ]
+    },
+    "10073264s": {
+        "submission": "264",
+        "time": 10073,
+        "score": 15,
+        "extra": [
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    "10198265s": {
+        "submission": "265",
+        "time": 10198,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    "10200266s": {
+        "submission": "266",
+        "time": 10200,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "10244267s": {
+        "submission": "267",
+        "time": 10244,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    "10347268s": {
+        "submission": "268",
+        "time": 10347,
+        "score": 80,
+        "extra": [
+            "80"
+        ]
+    },
+    "10348269s": {
+        "submission": "269",
+        "time": 10348,
+        "score": 50,
+        "extra": [
+            "50",
+            "0"
+        ]
+    },
+    "10356270s": {
+        "submission": "270",
+        "time": 10356,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "10356271s": {
+        "submission": "271",
+        "time": 10356,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "10372272s": {
+        "submission": "272",
+        "time": 10372,
+        "score": 15,
+        "extra": [
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    "10381273s": {
+        "submission": "273",
+        "time": 10381,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "10395274s": {
+        "submission": "274",
+        "time": 10395,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "10398275s": {
+        "submission": "275",
+        "time": 10398,
+        "score": 15,
+        "extra": [
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    "10461276s": {
+        "submission": "276",
+        "time": 10461,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "10462277s": {
+        "submission": "277",
+        "time": 10462,
+        "score": 50,
+        "extra": [
+            "0",
+            "50"
+        ]
+    },
+    "10465278s": {
+        "submission": "278",
+        "time": 10465,
+        "score": 50,
+        "extra": [
+            "0",
+            "50"
+        ]
+    },
+    "10465279s": {
+        "submission": "279",
+        "time": 10465,
+        "score": 50,
+        "extra": [
+            "0",
+            "50"
+        ]
+    },
+    "10464280s": {
+        "submission": "280",
+        "time": 10464,
+        "score": 50,
+        "extra": [
+            "0",
+            "50"
+        ]
+    },
+    "10467281s": {
+        "submission": "281",
+        "time": 10467,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "10497282s": {
+        "submission": "282",
+        "time": 10497,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "10597283s": {
+        "submission": "283",
+        "time": 10597,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "10599284s": {
+        "submission": "284",
+        "time": 10599,
+        "score": 15,
+        "extra": [
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    "10613285s": {
+        "submission": "285",
+        "time": 10613,
+        "score": 100,
+        "extra": [
+            "100"
+        ]
+    },
+    "10601286s": {
+        "submission": "286",
+        "time": 10601,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "10626287s": {
+        "submission": "287",
+        "time": 10626,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    "10623288s": {
+        "submission": "288",
+        "time": 10623,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    "10666289s": {
+        "submission": "289",
+        "time": 10666,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "10692290s": {
+        "submission": "290",
+        "time": 10692,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "10692291s": {
+        "submission": "291",
+        "time": 10692,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "10681292s": {
+        "submission": "292",
+        "time": 10681,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "10692293s": {
+        "submission": "293",
+        "time": 10692,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "10709294s": {
+        "submission": "294",
+        "time": 10709,
+        "score": 15,
+        "extra": [
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    "10741295s": {
+        "submission": "295",
+        "time": 10741,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    "10755296s": {
+        "submission": "296",
+        "time": 10755,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    "10782297s": {
+        "submission": "297",
+        "time": 10782,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    "10783298s": {
+        "submission": "298",
+        "time": 10783,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    }
+}

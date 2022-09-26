@@ -1,0 +1,14 @@
+{
+    "name": "\u8ff4\u6587 (palindrome)",
+    "short_name": "C",
+    "contest": "hlhs21",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (10)",
+        "Subtask 2 (10)",
+        "Subtask 3 (80)"
+    ],
+    "order": 2,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

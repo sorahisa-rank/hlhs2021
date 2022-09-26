@@ -1,0 +1,85 @@
+[
+    {
+        "user": "u11009",
+        "task": "A",
+        "time": 6621,
+        "key": "165",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "u11009",
+        "task": "G",
+        "time": 8089,
+        "key": "206",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "u11009",
+        "task": "G",
+        "time": 8351,
+        "key": "215",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "u11009",
+        "task": "G",
+        "time": 8566,
+        "key": "220",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "u11009",
+        "task": "G",
+        "time": 8823,
+        "key": "227",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "u11009",
+        "task": "G",
+        "time": 9024,
+        "key": "231",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "u11009",
+        "task": "G",
+        "time": 9205,
+        "key": "234",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    }
+]

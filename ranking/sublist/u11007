@@ -1,0 +1,38 @@
+[
+    {
+        "user": "u11007",
+        "task": "B",
+        "time": 9386,
+        "key": "239",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "u11007",
+        "task": "B",
+        "time": 9972,
+        "key": "261",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "u11007",
+        "task": "B",
+        "time": 10198,
+        "key": "265",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    }
+]

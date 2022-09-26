@@ -1,0 +1,152 @@
+[
+    {
+        "user": "u11026",
+        "task": "D",
+        "time": 4735,
+        "key": "124",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "u11026",
+        "task": "D",
+        "time": 5064,
+        "key": "128",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "u11026",
+        "task": "D",
+        "time": 5381,
+        "key": "134",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "u11026",
+        "task": "G",
+        "time": 7536,
+        "key": "190",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "u11026",
+        "task": "F",
+        "time": 9432,
+        "key": "242",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "u11026",
+        "task": "F",
+        "time": 9684,
+        "key": "252",
+        "token": false,
+        "score": 15,
+        "extra": [
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "u11026",
+        "task": "F",
+        "time": 10073,
+        "key": "264",
+        "token": false,
+        "score": 15,
+        "extra": [
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "u11026",
+        "task": "F",
+        "time": 10398,
+        "key": "275",
+        "token": false,
+        "score": 15,
+        "extra": [
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "u11026",
+        "task": "F",
+        "time": 10599,
+        "key": "284",
+        "token": false,
+        "score": 15,
+        "extra": [
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "u11026",
+        "task": "A",
+        "time": 1266,
+        "key": "29",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "u11026",
+        "task": "G",
+        "time": 10783,
+        "key": "298",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "u11026",
+        "task": "A",
+        "time": 1500,
+        "key": "40",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    }
+]
