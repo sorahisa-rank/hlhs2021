@@ -1,6 +1,50 @@
 [
     {
         "user": "u11016",
+        "task": "A",
+        "time": 733,
+        "key": "16",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "u11016",
+        "task": "A",
+        "time": 987,
+        "key": "21",
+        "token": false,
+        "score": 100,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "u11016",
+        "task": "A",
+        "time": 1605,
+        "key": "44",
+        "token": false,
+        "score": 100,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "u11016",
+        "task": "A",
+        "time": 3947,
+        "key": "99",
+        "token": false,
+        "score": 100,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "u11016",
         "task": "F",
         "time": 6154,
         "key": "154",
@@ -9,17 +53,6 @@
         "extra": [
             "0",
             "0",
-            "0"
-        ]
-    },
-    {
-        "user": "u11016",
-        "task": "A",
-        "time": 733,
-        "key": "16",
-        "token": false,
-        "score": 0,
-        "extra": [
             "0"
         ]
     },
@@ -60,17 +93,6 @@
             "15",
             "0",
             "0"
-        ]
-    },
-    {
-        "user": "u11016",
-        "task": "A",
-        "time": 987,
-        "key": "21",
-        "token": false,
-        "score": 100,
-        "extra": [
-            "100"
         ]
     },
     {
@@ -157,28 +179,6 @@
         "extra": [
             "0",
             "50"
-        ]
-    },
-    {
-        "user": "u11016",
-        "task": "A",
-        "time": 1605,
-        "key": "44",
-        "token": false,
-        "score": 100,
-        "extra": [
-            "100"
-        ]
-    },
-    {
-        "user": "u11016",
-        "task": "A",
-        "time": 3947,
-        "key": "99",
-        "token": false,
-        "score": 100,
-        "extra": [
-            "100"
         ]
     }
 ]
