@@ -1,0 +1,14 @@
+{
+    "name": "\u4e09\u3001\u8a0e\u8ad6\u5ba4 (discussion)",
+    "short_name": "C",
+    "contest": "hlhs22",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (20)",
+        "Subtask 2 (30)",
+        "Subtask 3 (50)"
+    ],
+    "order": 2,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

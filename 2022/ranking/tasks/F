@@ -1,0 +1,14 @@
+{
+    "name": "\u516d\u3001\u8cea\u6578\u5bb6\u65cf (primeconn)",
+    "short_name": "F",
+    "contest": "hlhs22",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (20)",
+        "Subtask 2 (30)",
+        "Subtask 3 (50)"
+    ],
+    "order": 5,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

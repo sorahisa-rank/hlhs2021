@@ -1,0 +1,13 @@
+{
+    "name": "\u4e03\u3001\u6700\u77ed\u751f\u6210\u6a39 (sptree)",
+    "short_name": "G",
+    "contest": "hlhs22",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (30)",
+        "Subtask 2 (70)"
+    ],
+    "order": 6,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

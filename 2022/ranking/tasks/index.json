@@ -1,0 +1,104 @@
+{
+    "A": {
+        "name": "\u4e00\u3001\u985b\u5012\u570b (reverse)",
+        "short_name": "A",
+        "contest": "hlhs22",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (20)",
+            "Subtask 2 (20)",
+            "Subtask 3 (30)",
+            "Subtask 4 (30)"
+        ],
+        "order": 0,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "B": {
+        "name": "\u4e8c\u3001\u5bc6\u78bc\u5f37\u5ea6\u8a55\u4f30 (passcheck)",
+        "short_name": "B",
+        "contest": "hlhs22",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (35)",
+            "Subtask 2 (35)",
+            "Subtask 3 (30)"
+        ],
+        "order": 1,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "C": {
+        "name": "\u4e09\u3001\u8a0e\u8ad6\u5ba4 (discussion)",
+        "short_name": "C",
+        "contest": "hlhs22",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (20)",
+            "Subtask 2 (30)",
+            "Subtask 3 (50)"
+        ],
+        "order": 2,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "D": {
+        "name": "\u56db\u3001ZZPooling \u5bc6\u78bc\u6c60\u7522\u751f\u5668 (zzpooling)",
+        "short_name": "D",
+        "contest": "hlhs22",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (15)",
+            "Subtask 2 (25)",
+            "Subtask 3 (30)",
+            "Subtask 4 (30)"
+        ],
+        "order": 3,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "E": {
+        "name": "\u4e94\u3001\u65b9\u683c\u8ff7\u5bae (maze)",
+        "short_name": "E",
+        "contest": "hlhs22",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (0)",
+            "Subtask 2 (10)",
+            "Subtask 3 (25)",
+            "Subtask 4 (20)",
+            "Subtask 5 (15)",
+            "Subtask 6 (30)"
+        ],
+        "order": 4,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "F": {
+        "name": "\u516d\u3001\u8cea\u6578\u5bb6\u65cf (primeconn)",
+        "short_name": "F",
+        "contest": "hlhs22",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (20)",
+            "Subtask 2 (30)",
+            "Subtask 3 (50)"
+        ],
+        "order": 5,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "G": {
+        "name": "\u4e03\u3001\u6700\u77ed\u751f\u6210\u6a39 (sptree)",
+        "short_name": "G",
+        "contest": "hlhs22",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (30)",
+            "Subtask 2 (70)"
+        ],
+        "order": 6,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    }
+}

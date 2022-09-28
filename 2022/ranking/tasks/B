@@ -1,0 +1,14 @@
+{
+    "name": "\u4e8c\u3001\u5bc6\u78bc\u5f37\u5ea6\u8a55\u4f30 (passcheck)",
+    "short_name": "B",
+    "contest": "hlhs22",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (35)",
+        "Subtask 2 (35)",
+        "Subtask 3 (30)"
+    ],
+    "order": 1,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}
