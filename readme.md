@@ -3,4 +3,5 @@
     -   [正式賽](https://sorahisa-rank.github.io/sh-hlhs/2021/ranking/)
 -   2022
     -   [題目](https://sorahisa-rank.github.io/sh-hlhs/2022/problems.pdf)
+    -   [題解](https://sorahisa-rank.github.io/sh-hlhs/2022/editorial.pdf)
     -   [正式賽](https://sorahisa-rank.github.io/sh-hlhs/2022/ranking/)
