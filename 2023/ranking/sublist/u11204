@@ -1,0 +1,119 @@
+[
+    {
+        "user": "u11204",
+        "task": "2",
+        "time": 5871,
+        "key": "98",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "u11204",
+        "task": "2",
+        "time": 6871,
+        "key": "122",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "u11204",
+        "task": "2",
+        "time": 6932,
+        "key": "123",
+        "token": false,
+        "score": 60,
+        "extra": [
+            "30",
+            "30",
+            "0"
+        ]
+    },
+    {
+        "user": "u11204",
+        "task": "2",
+        "time": 8077,
+        "key": "139",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "u11204",
+        "task": "2",
+        "time": 8273,
+        "key": "142",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "u11204",
+        "task": "2",
+        "time": 8442,
+        "key": "147",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "u11204",
+        "task": "2",
+        "time": 8556,
+        "key": "151",
+        "token": false,
+        "score": 60,
+        "extra": [
+            "30",
+            "30",
+            "0"
+        ]
+    },
+    {
+        "user": "u11204",
+        "task": "2",
+        "time": 8729,
+        "key": "157",
+        "token": false,
+        "score": 60,
+        "extra": [
+            "30",
+            "30",
+            "0"
+        ]
+    },
+    {
+        "user": "u11204",
+        "task": "2",
+        "time": 8960,
+        "key": "163",
+        "token": false,
+        "score": 60,
+        "extra": [
+            "30",
+            "30",
+            "0"
+        ]
+    }
+]

@@ -1,0 +1,140 @@
+[
+    {
+        "user": "u11219",
+        "task": "2",
+        "time": 1254,
+        "key": "35",
+        "token": false,
+        "score": 100,
+        "extra": [
+            "30",
+            "30",
+            "40"
+        ]
+    },
+    {
+        "user": "u11219",
+        "task": "1",
+        "time": 2276,
+        "key": "45",
+        "token": false,
+        "score": 100,
+        "extra": [
+            "35",
+            "35",
+            "30"
+        ]
+    },
+    {
+        "user": "u11219",
+        "task": "4",
+        "time": 4034,
+        "key": "72",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "u11219",
+        "task": "4",
+        "time": 4246,
+        "key": "75",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "u11219",
+        "task": "5",
+        "time": 4966,
+        "key": "83",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "u11219",
+        "task": "5",
+        "time": 5092,
+        "key": "85",
+        "token": false,
+        "score": 20,
+        "extra": [
+            "20",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "u11219",
+        "task": "3",
+        "time": 9421,
+        "key": "171",
+        "token": false,
+        "score": 35,
+        "extra": [
+            "35",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "u11219",
+        "task": "3",
+        "time": 9586,
+        "key": "177",
+        "token": false,
+        "score": 100,
+        "extra": [
+            "35",
+            "35",
+            "30"
+        ]
+    },
+    {
+        "user": "u11219",
+        "task": "5",
+        "time": 10257,
+        "key": "190",
+        "token": false,
+        "score": 20,
+        "extra": [
+            "20",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "u11219",
+        "task": "6",
+        "time": 10698,
+        "key": "198",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

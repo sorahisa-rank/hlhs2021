@@ -1,0 +1,92 @@
+{
+    "1": {
+        "name": "\u7b2c\u4e00\u984c\uff1a\u6392\u5217\u52a0\u5bc6 (secret)",
+        "short_name": "A",
+        "contest": "hlhs23",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (35)",
+            "Subtask 2 (35)",
+            "Subtask 3 (30)"
+        ],
+        "order": 0,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "2": {
+        "name": "\u7b2c\u4e8c\u984c\uff1a\u5206\u7d44\u8ab2\u7a0b (course)",
+        "short_name": "B",
+        "contest": "hlhs22",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (30)",
+            "Subtask 2 (30)",
+            "Subtask 3 (40)"
+        ],
+        "order": 1,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "3": {
+        "name": "\u7b2c\u4e09\u984c\uff1a\u5bf6\u85cf\u5730\u5716 (path)",
+        "short_name": "C",
+        "contest": "hlhs22",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (35)",
+            "Subtask 2 (35)",
+            "Subtask 3 (30)"
+        ],
+        "order": 2,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "4": {
+        "name": "\u7b2c\u56db\u984c\uff1a\u56e0\u6578\u5206\u89e3 (factor)",
+        "short_name": "D",
+        "contest": "hlhs22",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (0)",
+            "Subtask 2 (10)",
+            "Subtask 3 (25)",
+            "Subtask 4 (35)",
+            "Subtask 5 (30)"
+        ],
+        "order": 3,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "5": {
+        "name": "\u7b2c\u4e94\u984c\uff1a\u6578\u5217\u52a0\u7e3d (distinct)",
+        "short_name": "E",
+        "contest": "hlhs22",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (20)",
+            "Subtask 2 (40)",
+            "Subtask 3 (40)"
+        ],
+        "order": 4,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "6": {
+        "name": "\u7b2c\u516d\u984c\uff1a\u88dd\u5f31 (weak)",
+        "short_name": "F",
+        "contest": "hlhs23",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (0)",
+            "Subtask 2 (5)",
+            "Subtask 3 (25)",
+            "Subtask 4 (15)",
+            "Subtask 5 (15)",
+            "Subtask 6 (20)",
+            "Subtask 7 (20)"
+        ],
+        "order": 5,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    }
+}
